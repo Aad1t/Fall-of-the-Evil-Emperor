@@ -1,1 +1,1 @@
-This is a Java RPG game, called "Fall of the Evil Emperor," created by Aadit Gupta.
+This is a Java RPG game, called "Fall of the Evil Emperor," created by Aadit Gupta. The player in the game goes on a quest to defeat the evil emperor upon realizing that his village got raided by the emperor's henchman. Along the journey, the player may encounter different challengers that he/she must defeat to move on. There are other challenges, such as prison escape and brain teaser the user must accomplish in order to finally reach the emperor, and take vengeance.
